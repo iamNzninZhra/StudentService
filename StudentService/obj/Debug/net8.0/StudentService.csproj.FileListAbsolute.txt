@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\StudentService\StudentService\bin\Debug\net8.0\StudentService.exe
+C:\Users\Lenovo\source\repos\StudentService\StudentService\bin\Debug\net8.0\StudentService.deps.json
+C:\Users\Lenovo\source\repos\StudentService\StudentService\bin\Debug\net8.0\StudentService.runtimeconfig.json
+C:\Users\Lenovo\source\repos\StudentService\StudentService\bin\Debug\net8.0\StudentService.dll
+C:\Users\Lenovo\source\repos\StudentService\StudentService\bin\Debug\net8.0\StudentService.pdb
+C:\Users\Lenovo\source\repos\StudentService\StudentService\obj\Debug\net8.0\StudentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\StudentService\StudentService\obj\Debug\net8.0\StudentService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\StudentService\StudentService\obj\Debug\net8.0\StudentService.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\StudentService\StudentService\obj\Debug\net8.0\StudentService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\StudentService\StudentService\obj\Debug\net8.0\StudentService.dll
+C:\Users\Lenovo\source\repos\StudentService\StudentService\obj\Debug\net8.0\refint\StudentService.dll
+C:\Users\Lenovo\source\repos\StudentService\StudentService\obj\Debug\net8.0\StudentService.pdb
+C:\Users\Lenovo\source\repos\StudentService\StudentService\obj\Debug\net8.0\StudentService.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\StudentService\StudentService\obj\Debug\net8.0\ref\StudentService.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\StudentService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BA3EBF-2936-422D-9501-E904FCB60CDA}|StudentService\\StudentService.csproj|c:\\users\\lenovo\\source\\repos\\studentservice\\studentservice\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BA3EBF-2936-422D-9501-E904FCB60CDA}|StudentService\\StudentService.csproj|solutionrelative:studentservice\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205FF454-931B-4A19-A661-FBD0BCBF0A3E}|..\\myfirstc#app\\myfirstc#app\\myfirstc#app.csproj|c:\\users\\lenovo\\source\\repos\\myfirstc#app\\myfirstc#app\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BA3EBF-2936-422D-9501-E904FCB60CDA}|StudentService\\StudentService.csproj|c:\\users\\lenovo\\source\\repos\\studentservice\\studentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BA3EBF-2936-422D-9501-E904FCB60CDA}|StudentService\\StudentService.csproj|solutionrelative:studentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\myfirstc#app\\myfirstc#app\\Product.cs",
+              "RelativeDocumentMoniker": "..\\myfirstc#app\\myfirstc#app\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\myfirstc#app\\myfirstc#app\\Product.cs",
+              "RelativeToolTip": "..\\myfirstc#app\\myfirstc#app\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:09:10.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentService\\StudentService\\Student.cs",
+              "RelativeDocumentMoniker": "StudentService\\Student.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentService\\StudentService\\Student.cs",
+              "RelativeToolTip": "StudentService\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:39:27.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentService\\StudentService\\Program.cs",
+              "RelativeDocumentMoniker": "StudentService\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentService\\StudentService\\Program.cs",
+              "RelativeToolTip": "StudentService\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:37:40.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

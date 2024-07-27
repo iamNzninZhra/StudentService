@@ -35,7 +35,7 @@ namespace StudentService
             var birthYear = InputBirthYear();
             if (birthYear > 0)
             {
-                if (birthYear >= 2017)
+                if (birthYear <= 2017)
                 {
                     Console.WriteLine("Able to sign up for school");
                     this.BirthYear = birthYear;
